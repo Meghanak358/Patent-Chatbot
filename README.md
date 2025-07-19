@@ -5,7 +5,7 @@
 
 
 
-🔗 [View Portfolio Live](http://localhost:8501/)
+🔗 [View Chatbot Live](http://localhost:8501/)
 
 
 
