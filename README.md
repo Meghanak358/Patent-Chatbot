@@ -5,7 +5,7 @@
 
 
 
-🔗 [View Chatbot Live](http://localhost:8501/)
+🔗 [View Chatbot Live]([http://localhost:8501/](http://192.168.151.64:8501/))
 
 
 
